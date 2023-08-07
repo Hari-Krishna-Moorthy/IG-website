@@ -39,9 +39,20 @@ export default function Header() {
               <li>
                 <Link href="/ourteam" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Our Team</Link>
               </li>
+
+
+              <Dropdown children={<>
               <li>
-                <Link href="#" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Solutions</Link>
+                <Link href="#" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">FolioSpark</Link>
               </li>
+              <li>
+                  <Link href="#" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Bill Smart</Link>
+              </li> 
+              
+              </>}  
+              title={'Our Products'} />
+
+
               <li>
                 <Link href="#" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Resources</Link>
               </li>
