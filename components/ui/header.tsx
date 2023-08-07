@@ -46,7 +46,7 @@ export default function Header() {
                 <Link href="#" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">FolioSpark</Link>
               </li>
               <li>
-                  <Link href="#" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Bill Smart</Link>
+                  <Link href="/billsmart" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Bill Smart</Link>
               </li> 
               
               </>}  
