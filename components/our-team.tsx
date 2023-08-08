@@ -36,7 +36,7 @@ export default function Team(){
 
 
 
-          <div className="max-w-sm md:max-w-7xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-4">
+          <div className="max-w-sm md:max-w-7xl mx-auto grid gap-2 grid-cols-1 md:grid-cols-4">
 
 {/* Teammate */}
 <div className=" max-w-3xl mx-auto mt-20 md:col-auto" data-aos="zoom-y-out">
@@ -216,7 +216,7 @@ export default function Team(){
 
 </div>
 
-<div className="max-w-sm md:max-w-7xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-1">
+<div className="max-w-sm md:max-w-7xl mx-auto grid gap-2 grid-cols-1 md:grid-cols-1">
 
   {/* Teammate */}
 <div className="max-w-3xl mx-auto mt-20 md:py-6" data-aos="zoom-y-out">
