@@ -55,7 +55,7 @@ export const metadata = {
 
 
           <div className="w-full mx-auto mt-30 text-center md:w-10/12">
-            <div className="relative z-0 w-full mt-8" data-aos="zoom-y-out">
+            <div className="relative z-0 w-full mt-8 shadow hover:shadow-2xl" data-aos="zoom-y-out">
                 <div className="relative overflow-hidden shadow-2xl">
                     <div className="flex items-center flex-none px-4 bg-purple rounded-b-none h-11 rounded-xl">
                         <div className="flex space-x-1.5">

@@ -53,7 +53,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>Founder & CEO</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/hari-krishna-moorthy/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -75,7 +75,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>Co-Founder & Marketing Director</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/gajendar-singh-rajput/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -96,7 +96,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>Co-Founder & ML Engineer</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/sabareesan-arjunasamy-7a5531190/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -118,7 +118,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>Co-Founder & Full-stack Developer</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/vishal-d-10/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -141,7 +141,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>Chief Technical Director</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/sampath-kumar-s/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -163,7 +163,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>Head of Product</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/summiaparveen/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -181,11 +181,11 @@ export default function Team(){
       <div className="absolute top-0 -mt-16 left-1/2 transform -translate-x-1/2 opacity-1 transition-opacity hover:opacity-0">
         <Image className="relative rounded-full" src={Viv} width={136} height={96} alt="Testimonial 01" />
       </div>
-      <cite className="block font-bold text-lg not-italic mb-1">Vivek Kumar</cite>
+      <cite className="block font-bold text-lg not-italic mb-1">Vivek Kumar M</cite>
       <div className="text-gray-600">
         <span>Chief Outreach Director</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/vivekkumar3987/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -207,7 +207,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>Full-stack Developer</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/kalanjiya-vishnu-j-26529021a/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
@@ -233,7 +233,7 @@ export default function Team(){
       <div className="text-gray-600">
         <span>User Experience Designer</span> 
         <br></br>
-        <a className="text-blue-600 hover:underline" href="#0">@LinkedIn</a>
+        <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/adhithya-j/" target="_blank">@LinkedIn</a>
       </div>
     </div>
   </div>
