@@ -26,7 +26,7 @@ export default function Footer() {
                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Folio Spark</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Interizon Hackathon</a>
+                <a href="/billsmart" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Bill Smart</a>
               </li>
               
             </ul>
