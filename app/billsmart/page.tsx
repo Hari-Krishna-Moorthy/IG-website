@@ -8,6 +8,7 @@ export const metadata = {
   import Footer from '@/components/ui/footer';
   import Team from '@/components/our-team';
   import Banner1 from '@/components/banner1';
+  import FeaturesBlocks from '@/components/features-blocks'
 
   
   export default function BillSmart() {
@@ -69,7 +70,7 @@ export const metadata = {
             </div>
         </div>
 
-        <div className="pt-12 md:pt-20" data-aos="zoom-y-out">
+        <div className="pt-12 md:pt-20 md:pt-40" data-aos="zoom-y-out">
 
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">Why Choose Bill Smart?</h1>
@@ -129,7 +130,10 @@ export const metadata = {
           </div>
 
           
+
+          
         </div>
+        
 
       </section>
     )
