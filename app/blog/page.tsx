@@ -18,14 +18,14 @@ export const metadata = {
 
 
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
-          <div className="pt-32 pb-12 md:pt-40 md:pb-20">
+          <div className="pt-32 pb-12 md:pt-20 md:pb-20">
 
     <div className="mt-12">
       {/*featured section */}
       <div className="flex flex-wrap md:flex-no-wrap space-x-0 md:space-x-6 mb-16">
          {/* main post */}
         <div className="mb-4 lg:mb-0  p-4 lg:p-0 w-full md:w-4/7 relative rounded block">
-          <img src="https://images.unsplash.com/photo-1427751840561-9852520f8ce8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded-md object-cover w-full h-64"/>
+          <img src="https://images.unsplash.com/photo-1427751840561-9852520f8ce8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded-md object-cover w-full h-64 "/>
           <span className="text-gray-600 mb-2 text-sm hidden md:block mt-4"> Technology </span>
           <h1 className="text-gray-800 text-4xl font-extrabold leading-tighter tracking-tighter mt-2 mb-2 leading-tight">
             Ignorant branched humanity led now marianne too.
@@ -56,7 +56,7 @@ export const metadata = {
       <div className="block space-x-0 lg:flex lg:space-x-6">
 
         <div className="rounded w-full lg:w-1/2 lg:w-1/3 p-4 lg:p-0">
-          <img src="https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded" alt="technology" />
+          <img src="https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded " alt="technology" />
           <div className="p-4 pl-0">
             <h2 className="font-extrabold leading-tighter tracking-tighter text-2xl text-gray-800">Put all speaking her delicate recurred possible.</h2>
             <p className="text-gray-700 mt-2">
