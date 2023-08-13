@@ -22,21 +22,19 @@ export const metadata = {
 
     <div className="mt-12">
       {/*featured section */}
-      <div className="flex flex-wrap md:flex-no-wrap space-x-0 md:space-x-6 mb-16">
+      <div className="flex flex-wrap md:flex-no-wrap space-x-0 md:space-x-6 mb-16" data-aos="zoom-y-out">
          {/* main post */}
         <div className="mb-4 lg:mb-0  p-4 lg:p-0 w-full md:w-4/7 relative rounded block">
-          <img src="https://images.unsplash.com/photo-1427751840561-9852520f8ce8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded-md object-cover w-full h-64 "/>
+          <img src="/blog1.jpeg" className="rounded-md object-cover w-full h-64 "/>
           <span className="text-gray-600 mb-2 text-sm hidden md:block mt-4"> Technology </span>
           <h1 className="text-gray-800 text-4xl font-extrabold leading-tighter tracking-tighter mt-2 mb-2 leading-tight">
-            Ignorant branched humanity led now marianne too.
+          Understanding YOLO Algorithm: Revolutionizing Object Detection in Machine Learning
           </h1>
           <p className="text-gray-600 mb-4">
-            Necessary ye contented newspaper zealously breakfast he prevailed. Melancholy middletons yet understood
-            decisively boy law she. Answer him easily are its barton little. Oh no though mother be things simple
-            itself.
-            Oh be me, sure wise sons, no. Piqued ye of am spirit regret. Stimulated discretion impossible admiration in particular conviction up.
+          In the realm of machine learning, object detection has always posed a significant challenge. 
+          The ability to not only identify objects within an image but also accurately locate them is a fundamental task with a multitude of real-world applications. 
           </p>
-          <a href="#" className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800">
+          <a href="/blog1" className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800">
           <span>Read More</span>
           </a>
         </div>
@@ -47,13 +45,13 @@ export const metadata = {
 
 
        {/* recent posts */}
-      <div className="flex mt-16 mb-4 px-4 lg:px-0 items-center justify-between">
+      <div className="flex mt-16 mb-4 px-4 lg:px-0 items-center justify-between" data-aos="zoom-y-out">
         <h2 className="font-extrabold leading-tighter tracking-tighter text-3xl">Latest Blogs</h2>
         <a className="hover:underline text-black-800 px-3 py-1 rounded cursor-pointer">
           View all
         </a>
       </div>
-      <div className="block space-x-0 lg:flex lg:space-x-6">
+      <div className="block space-x-0 lg:flex lg:space-x-6" data-aos="zoom-y-out">
 
         <div className="rounded w-full lg:w-1/2 lg:w-1/3 p-4 lg:p-0">
           <img src="https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded " alt="technology" />
@@ -105,13 +103,13 @@ export const metadata = {
 
 
        {/* popular posts */}
-      <div className="flex mt-16 mb-4 px-4 lg:px-0 items-center justify-between">
+      <div className="flex mt-16 mb-4 px-4 lg:px-0 items-center justify-between" data-aos="zoom-y-out">
         <h2 className="font-extrabold leading-tighter tracking-tighter text-3xl">Popular Blogs</h2>
         <a className="hover:underline text-black-800 px-3 py-1 rounded cursor-pointer">
           View all
         </a>
       </div>
-      <div className="block space-x-0 lg:flex lg:space-x-6">
+      <div className="block space-x-0 lg:flex lg:space-x-6" data-aos="zoom-y-out">
 
         <div className="rounded w-full lg:w-1/2 lg:w-1/3 p-4 lg:p-0">
           <img src="https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded" alt="technology" />
