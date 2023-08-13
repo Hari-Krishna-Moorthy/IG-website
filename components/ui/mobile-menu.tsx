@@ -73,7 +73,7 @@ export default function MobileMenu() {
               <ul className="px-5 py-2">
               <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Solutions</Link>
               <li>
-              <Link href="#" className="flex font-small w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>1. FolioSpark</Link>
+              <Link href="/foliospark" className="flex font-small w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>1. FolioSpark</Link>
               </li>
               <li>
               <Link href="/billsmart" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>2. Bill Smart</Link>
@@ -81,7 +81,7 @@ export default function MobileMenu() {
               </ul>
             </li>
             <li>
-              <Link href="#" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Resources</Link>
+              <Link href="/blog" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Resources</Link>
             </li>
             <li>
               <Link href="/contactus" className="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>Contact Us</Link>
