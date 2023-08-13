@@ -48,7 +48,7 @@ export const metadata = {
 
 
           <img src="/yolo.png" className="mb-4" alt=""/>
-              <div className="text-gray-900 mb-12  flex items-center justify-center">Digital art by Anonymous</div>
+              <div className="text-gray-900 mb-12  flex items-center justify-center">Object Detection using YOLO</div>
 
 
           

@@ -87,7 +87,18 @@ export const metadata = {
       </p>
     </div>
     <div className="w-full h-full py-38 bg-white-200">
-    <img src="./IceCreamDoodle.png" alt="image" width={'500'} height={'300'} />
+    <div className="relative z-0 w-full mt-8 shadow hover:shadow-2xl" data-aos="zoom-y-out">
+                <div className="relative overflow-hidden shadow-2xl">
+                    <div className="flex items-center flex-none px-4 bg-purple rounded-b-none h-11 rounded-xl">
+                        <div className="flex space-x-1.5">
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                        </div>
+                    </div>
+                    <img src="/Product.png" alt="image" width='full' height='full' />
+                </div>
+            </div>
     </div>
   </div>
 
@@ -99,7 +110,18 @@ export const metadata = {
       </p>
     </div>
     <div className="w-full h-full py-38 bg-white-200">
-    <img src="./MessyDoodle.png" alt="image" width={'500'} height={'300'} />
+    <div className="relative z-0 w-full mt-8 shadow hover:shadow-2xl" data-aos="zoom-y-out">
+                <div className="relative overflow-hidden shadow-2xl">
+                    <div className="flex items-center flex-none px-4 bg-purple rounded-b-none h-11 rounded-xl">
+                        <div className="flex space-x-1.5">
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                        </div>
+                    </div>
+                    <img src="/Product1.png" alt="image" width='full' height='full' />
+                </div>
+            </div>
     </div>
   </div>
 
@@ -111,7 +133,18 @@ export const metadata = {
       </p>
     </div>
     <div className="w-full h-full py-38 bg-white-200 sm:items-center">
-    <img src="./SitReadingDoodle.png" alt="image" width={'500'} height={'300'} />
+    <div className="relative z-0 w-full mt-8 shadow hover:shadow-2xl" data-aos="zoom-y-out">
+                <div className="relative overflow-hidden shadow-2xl">
+                    <div className="flex items-center flex-none px-4 bg-purple rounded-b-none h-11 rounded-xl">
+                        <div className="flex space-x-1.5">
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                            <div className="w-3 h-3 border-2 border-white rounded-full"></div>
+                        </div>
+                    </div>
+                    <img src="/Product2.png" alt="image" width='full' height='full' />
+                </div>
+            </div>
     </div>
   </div>
 
