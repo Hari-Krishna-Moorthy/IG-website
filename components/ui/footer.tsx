@@ -23,7 +23,7 @@ export default function Footer() {
             <h6 className="text-gray-800 font-medium mb-2">Products</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Folio Spark</a>
+                <a href="/foliospark" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Folio Spark</a>
               </li>
               <li className="mb-2">
                 <a href="/billsmart" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Bill Smart</a>
@@ -43,7 +43,7 @@ export default function Footer() {
                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tutorials & Guides</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog</a>
+                <a href="/blog" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog</a>
               </li>
               <li className="mb-2">
                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Support Center</a>
@@ -59,7 +59,7 @@ export default function Footer() {
             <h6 className="text-gray-800 font-medium mb-2">Company</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home</a>
+                <a href="/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home</a>
               </li>
               <li className="mb-2">
                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About us</a>
