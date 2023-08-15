@@ -45,7 +45,7 @@ export default function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400 mb-2">Checkout our other Initiative</h3>
+                <h3 className="h3 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400 mb-2">Checkout Interizon Hackathon</h3>
                 <p className="text-gray-300 text-lg mb-6">Through Interizon we're committed to establishing a hackathon to promote social good among Students Community</p>
                
 

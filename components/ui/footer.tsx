@@ -13,14 +13,16 @@ export default function Footer() {
             <div className="mb-2">
               <Logo />
             </div>
-            <div className="text-sm text-gray-600">
-              <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Terms</a> · <a href="#0" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Privacy Policy</a>
+            <h1 className="text-black-800 font-bold mb-2">Innovation Geeks</h1>
+            <div className="text-sm">
+
+              <h5 className="text-gray-600 ">Crafting Your Digital Dreams, <br></br> One Line of Code at a Time</h5> 
             </div>
           </div>
 
           {/* 2nd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Products</h6>
+            <h6 className="text-gray-800 font-bold mb-2">Products</h6>
             <ul className="text-sm">
               <li className="mb-2">
                 <a href="/foliospark" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Folio Spark</a>
@@ -34,41 +36,29 @@ export default function Footer() {
 
           {/* 3rd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Resources</h6>
+            <h6 className="text-gray-800 font-bold mb-2">Resources</h6>
             <ul className="text-sm">
-              <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Documentation</a>
-              </li>
-              <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tutorials & Guides</a>
-              </li>
               <li className="mb-2">
                 <a href="/blog" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Support Center</a>
-              </li>
-              <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Partners</a>
+                <a href="https://www.youtube.com/@SRINIVAStheDEVELOPER/videos" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Problem Solving</a>
               </li>
             </ul>
           </div>
 
           {/* 4th block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Company</h6>
+            <h6 className="text-gray-800 font-bold mb-2">Company</h6>
             <ul className="text-sm">
               <li className="mb-2">
                 <a href="/" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home</a>
               </li>
               <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About us</a>
+                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Our Team</a>
               </li>
               <li className="mb-2">
                 <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Company values</a>
-              </li>
-              <li className="mb-2">
-                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Pricing</a>
               </li>
               <li className="mb-2">
                 <a href="/privacypolicy" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Privacy Policy</a>
@@ -78,7 +68,7 @@ export default function Footer() {
 
           {/* 5th block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-3">
-            <h6 className="text-gray-800 font-medium mb-2">Contact</h6>
+            <h6 className="text-gray-800 font-bold mb-2">Contact</h6>
             <p className="text-sm text-gray-600 mb-4">Drop your mail id and let our executives reach out to you !</p>
             <form>
               <div className="flex flex-wrap mb-4">
