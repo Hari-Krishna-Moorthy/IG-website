@@ -37,6 +37,7 @@ export const metadata = {
                 </svg>
               </a>
             </li>
+            
             <li className="ml-4">
               <a href="https://www.instagram.com/innovation._.geeks/" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" aria-label="Instagram" target="_blank">
                 <svg className="w-12 h-12 fill-current" viewBox="-8 -8 32 32" xmlns="http://www.w3.org/2000/svg">
