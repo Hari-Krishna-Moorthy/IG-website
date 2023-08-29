@@ -1,5 +1,5 @@
 export const metadata = {
-    title: 'Blog1',
+    title: 'Yolo',
     description: 'Page description',
   }
   
@@ -10,10 +10,11 @@ export const metadata = {
   import Newsletter1 from '@/components/newsletter1';
   import FeaturesBlocks from '@/components/features-blocks'
   import vish from '@/public/images/testimonial1.jpg'
+  import vishnew from '@/public/vishnew.jpg'
 
 
   
-  export default function Blog1() {
+  export default function Yolo() {
     return (
       <section className="relative">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
@@ -28,7 +29,7 @@ export const metadata = {
           <div className="mb-4 lg:mb-6 not-format">
               <div className="flex items-center mb-6 not-italic">
                   <div className="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
-                      <Image className="mr-4 w-16 h-16 rounded-full" src={vish} alt="Jese Leos"/>
+                      <Image className="mr-4 w-16 h-16 rounded-full" src={vishnew} alt="Vishal"/>
                       <div>
                           <a href="#" rel="author" className="text-xl font-bold text-gray-900">Vishal D</a>
                           <p className="text-base font-light text-gray-500 dark:text-gray-400">Co-Founder Innovation Geeks</p>

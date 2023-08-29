@@ -34,7 +34,7 @@ export const metadata = {
           In the realm of machine learning, object detection has always posed a significant challenge. 
           The ability to not only identify objects within an image but also accurately locate them is a fundamental task with a multitude of real-world applications. 
           </p>
-          <a href="/blog1" className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800">
+          <a href="/blog/yolo" className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800">
           <span>Read More</span>
           </a>
         </div>
@@ -54,15 +54,14 @@ export const metadata = {
       <div className="block space-x-0 lg:flex lg:space-x-6" data-aos="zoom-y-out">
 
         <div className="rounded w-full lg:w-1/2 lg:w-1/3 p-4 lg:p-0">
-          <img src="https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60" className="rounded " alt="technology" />
+          <img src="/blog2.jpg" className="rounded " alt="technology" />
           <div className="p-4 pl-0">
-            <h2 className="font-extrabold leading-tighter tracking-tighter text-2xl text-gray-800">Put all speaking her delicate recurred possible.</h2>
+            <h2 className="font-extrabold leading-tighter tracking-tighter text-2xl text-gray-800">The Julia Language: Unleashing Speed and Productivity in Scientific Computing</h2>
             <p className="text-gray-700 mt-2">
-              Set indulgence inquietude discretion insensible bed why announcing. Middleton fat two satisfied additions.
-              So continued he or commanded household smallness delivered. Door poor on do walk in half. Roof his head the what.
+            In the ever-evolving landscape of programming languages, a relatively new entrant has been gaining momentum and turning heads....
             </p>
 
-            <a href="#" className="inline-block py-2 rounded text-black-900 mt-2 ml-auto hover:underline"> Read more </a>
+            <a href="/blog/julia" className="inline-block py-2 rounded text-black-900 mt-2 ml-auto hover:underline"> Read more </a>
           </div>
         </div>
 
