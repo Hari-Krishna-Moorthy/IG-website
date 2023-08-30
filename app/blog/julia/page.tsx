@@ -118,19 +118,19 @@ export const metadata = {
           <p className="text-gray-900 mb-4"> Let's take a look at a simple example of implementing a linear regression algorithm using Julia. Linear regression is a fundamental machine 
           learning algorithm used for predicting a continuous target variable based on one or more input features.</p>
           <div className="bg-gray-900 p-4 rounded-md mb-12">
-  <pre className="text-white">
-    <code className="language-jl">
+
+    <code className="text-white text-sm sm:text-base md:text-lg lg:text-xl">
     using Random, DataFrames, GLM <br></br>
 
-    <a className='text-lime-400'># Generate some random data for demonstration</a> <br></br>
+    <div className='text-lime-400'># Generate some random data for demonstration</div> <br></br>
 Random.seed!(123)<br></br>
 n_samples = 100<br></br>
 X = randn(n_samples, 2)  <a className='text-lime-400'># Features</a> <br></br><br></br>
 
-<a className='text-lime-400'># Target variable</a> <br></br>
+<code className='text-lime-400'># Target variable</code> <br></br>
 y = 2 * X[:, 1] - 3 * X[:, 2] + 1 + 0.1 * randn(n_samples)  <br></br><br></br>
 
-<a className='text-lime-400'># Create a DataFrame for easy manipulation</a> <br></br>
+<code className='text-lime-400'># Create a DataFrame for easy manipulation</code> <br></br>
 data = DataFrame(X1 = X[:, 1], X2 = X[:, 2], Y = y) <br></br><br></br>
 
 <a className='text-lime-400'># Fit a linear regression model</a> <br></br>
@@ -149,7 +149,7 @@ println(predictions) <br></br>
 
 
     </code>
-  </pre>
+  
 </div>
 <p className="text-gray-900 mb-4"> In this example, we first generate some random data with two features (<code><strong>`X1`</strong></code> and <code><strong>X2</strong></code>) and a target 
 variable (<code><strong>`Y`</strong></code>). We then create a DataFrame using the <code><strong>DataFrames</strong></code> package to store and manipulate the data.
