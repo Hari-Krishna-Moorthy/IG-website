@@ -12,7 +12,7 @@ export default function Logo() {
       src={Logomain}
       width={55}
       height={55}
-      alt="Picture of the author"
+      alt="Innovation Geeks - Unlocking Your Digital Potential"
         />
     </Link>
   )

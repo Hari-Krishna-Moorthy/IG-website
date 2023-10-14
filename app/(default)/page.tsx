@@ -1,6 +1,7 @@
 export const metadata = {
   title: 'Home',
-  description: 'Page description',
+  description: 'Innovation Geeks - Unlocking Your Digital Potential',
+  kewwords: 'Innovation Geeks, IG'
 }
 
 import Hero from '@/components/hero'
