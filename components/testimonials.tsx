@@ -11,7 +11,7 @@ export default function Testimonials() {
   const testimonials = [
     {
       img: TestimonialImg01,
-      quote: "The ability to capture responses is a game-changer. If a user gets tired of the sign up and leaves, that data is still persisted. Additionally, it's great to select between formats.",
+      quote: "I am incredibly impressed by Innovation Geeks. Their multi-talented team seamlessly blends technical expertise with creative innovation, delivering unparalleled results.",
       name: 'Nakul Parameswar',
       role: 'IIT Hyderabad'
     },
@@ -99,6 +99,27 @@ export default function Testimonials() {
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <img className="max-w-full fill-current text-gray-400" src="/eco.png" width="124" height="14">
+                
+              </img>
+            </div>
+
+            {/* Item */}
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+              <img className="max-w-full fill-current text-gray-400" src="/smes.png" width="124" height="14">
+                
+              </img>
+            </div>
+
+            {/* Item */}
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+              <img className="max-w-full fill-current text-gray-400" src="/mayukai.png" width="124" height="14">
+                
+              </img>
+            </div>
+
+            {/* Item */}
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+              <img className="max-w-full fill-current text-gray-400" src="/vector.png" width="124" height="14">
                 
               </img>
             </div>
